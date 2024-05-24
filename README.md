@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**hung-ng/hung-ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a motivated Computer Science student passionate about new tech and creative projects. Interested in Cloud Computing, Full Stack Engineering, and IoT.
 
-Here are some ideas to get you started:
+## 📫 Get in Touch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 LinkedIn: [linkedin.com/in/kylan-nguyen](https://www.linkedin.com/in/kylan-nguyen/)
+- 📧 Email: htn43@case.edu
+
+## 🌱 About me
+
+- 🔍 I love exploring the latest tech innovations.
+- 💡 Let's collaborate and turn ideas into reality!
