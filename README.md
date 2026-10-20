@@ -1,8 +1,12 @@
 <p align="center">
-  <img src="header.svg" width="460" alt="A cassette labeled Kylan Nguyen, its reels turning">
+  <img src="header.svg" width="480" alt="A cassette labeled Kylan Nguyen, its reels turning">
 </p>
-
-I have more ideas than nights to build them.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="caption-dark.svg">
+    <img src="caption-light.svg" width="240" alt="Mostly built after midnight.">
+  </picture>
+</p>
 
 ### Lately
 
