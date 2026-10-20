@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="header.svg" width="460" alt="A cassette labeled Kylan Nguyen, its reels turning">
+</p>
+
 I have more ideas than nights to build them.
 
 ### Lately
