@@ -4,7 +4,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="caption-dark.svg">
-    <img src="caption-light.svg" width="240" alt="Mostly built after midnight.">
+    <img src="caption-light.svg" width="312" alt="Most builds recorded after midnight.">
   </picture>
 </p>
 
